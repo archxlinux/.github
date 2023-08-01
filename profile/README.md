@@ -1,6 +1,6 @@
 # Welcome to Archx
 
-ArchX is a new Arch Linux-based distribution tailored to deliver a fast, customizable, and user-friendly experience. We've streamlined the installation process to get you up and running quickly.
+ArchX is a new Arch Linux-based distribution tailored to deliver a fast, customizable, and user-friendly experience. 
 
 ## Download Links
 - [Download ISO (x64)](http://archxlinux.org/archx/iso)
