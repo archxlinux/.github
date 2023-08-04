@@ -4,7 +4,7 @@ ArchX is a new Arch Linux-based distribution tailored to deliver a fast, customi
 
 ## Download Links
 - [Download ISO (x64)](https://github.com/archxlinux/archiso/releases)
-
+![](plasma.png?raw=true)
 ## Getting Started
 1. Download the ArchX ISO or )USB installer from the links above.
 2. Create a bootable media using the ISO or USB installer.
