@@ -7,8 +7,7 @@ ArchX is an Arch Linux-based distribution tailored to deliver a fast, customizab
 ### 📀 Iso
 
 1. **[archxlinux-2023.08.04-x86_64.iso](https://github.com/archxlinux/iso/releases/download/2023.08.04/archxlinux-2023.08.04-x86_64.iso)**
-   - 📏 **Size**: 1.74 GB
-   - 🔐 **sha256sum**: 3bffaf823edc21bba2300143e648215c5dd8b3a2aa7f8a3cf62241ab0a38841d
+   - 📏 **Size**: 1.9 GB
 
 1. Download the ArchX ISO or )USB installer from the links above.
 2. Create a bootable media using the ISO or USB installer.
@@ -18,12 +17,12 @@ ArchX is an Arch Linux-based distribution tailored to deliver a fast, customizab
 ### 🐳 Docker
 
 #### TAG: slim
-- **Command:** `docker pull archxlinux/archxlinux:slim`
+- **Command:** `docker pull archxlinux/archxlinux`
 - 💻 **Arch:** linux/amd64
-- 📏 **Size:** 25 MB
+- 📏 **Size:** 278.8MB
 
 #### TAG: latest
-- **Command:** `docker pull archxlinux/archxlinux:latest`
+- **Command:** `docker pull archxlinux/archxlinux:slim`
 - 💻 **Arch:** linux/amd64
-- 📏 **Size:** 50 MB
+- 📏 **Size:** 53 MB
 
