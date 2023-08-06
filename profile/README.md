@@ -19,13 +19,11 @@ ArchX is an Arch Linux-based distribution tailored to deliver a fast, customizab
 
 #### TAG: slim
 - **Command:** `docker pull archxlinux/archxlinux:slim`
-- 📝 **Digest:** 1f65e7564db3
 - 💻 **Arch:** linux/amd64
-- 📏 **Size:** 21.16 MB
+- 📏 **Size:** 25 MB
 
 #### TAG: latest
 - **Command:** `docker pull archxlinux/archxlinux:latest`
-- 📝 **Digest:** 85e8ce438fdd
 - 💻 **Arch:** linux/amd64
-- 📏 **Size:** 407.39 MB
+- 📏 **Size:** 50 MB
 
